@@ -1,0 +1,2 @@
+# CloudTrendSetters
+AMI
